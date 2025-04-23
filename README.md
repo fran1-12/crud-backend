@@ -15,8 +15,12 @@ Aplicación fullstack sencilla que permite realizar operaciones CRUD sobre una l
 
 ### 1. Clonar el repositorio
 ```bash
-git x poner
-cd proyecto-crud
+
+git-front:  x poner
+git-back: https://github.com/fran1-12/crud-backend.git
+
+cd BACKEND
+CD FRONTEND
 ```
 
 ### 2. Backend - Node.js + Express
